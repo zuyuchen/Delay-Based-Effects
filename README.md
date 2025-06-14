@@ -1,1 +1,1 @@
-Delay line based effects: Flnager, Chorus, and Phaser, with Lagrange Interpolation 
+Delay line based effects: Comb filter, Flanger, Chorus, and Phaser, with Lagrange Interpolation 
